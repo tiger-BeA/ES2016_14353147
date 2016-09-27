@@ -1,8 +1,6 @@
 # DOL配置
 -------------------
 
-[TOC]
-
 ##Description
 
 >**Distributed operation layer (DOL)** is a software development framework to program parallel applications. The DOL allows to specify applications based on the Kahn process network model of computation and features a simulation engine based on SystemC. Moreover, the DOL provides an XML-based specification format to describe the implementation of a parallel application on a multi-processor systems, including binding and mapping.
@@ -62,7 +60,7 @@ $ sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
 	$ ../configure CXX=g++ --disable-async-updates
 	```
 下图为运行configure之后的截图		
-&nbsp;![Alt text](./1474969919154.png)
+&nbsp;
 <br/>
 5. 编译
 
