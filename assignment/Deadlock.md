@@ -2,7 +2,7 @@
 
 ## · 截图
 
-![](file:///C:\Users\Administrator\Desktop\deadlock_1.png)
+![](img\deadlock_1.png)
 
 
 
