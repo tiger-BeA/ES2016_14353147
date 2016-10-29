@@ -2,7 +2,7 @@
 
 ## · 截图
 
-![](img\deadlock_1.png)
+![](./img/deadlock_1.png)
 
 
 
