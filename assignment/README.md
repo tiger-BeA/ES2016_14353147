@@ -117,7 +117,6 @@ dot截图如下：<br/>
  1. 进程定义
 
 
-	​``` xml
 	<process name=“未知数1">
 	
 			<port type=“未知数2” name=“未知数3”/>
@@ -131,7 +130,6 @@ dot截图如下：<br/>
 			<source type=“c” location=“未知数1.c"/>
 	
 	</process>
-	​```
 	
 	> 未知数1==实现的模块的名字，比如写了xxx.c这里就是xxx了
 	
