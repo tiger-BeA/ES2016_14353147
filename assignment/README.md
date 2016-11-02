@@ -141,6 +141,7 @@ dot截图如下：<br/>
 
  2. 通道定义,一条线就是一条通道
 
+
     ``` xml
     <sw_channel type=“fifo” size=“未知数1” name=“未知数2">
 
@@ -160,18 +161,19 @@ dot截图如下：<br/>
 
  3. 定义各个模块之间的连接
 
+
      > 一条线会对应两个connection，就是A框的右手牵着这条线的左边，这条线的右边牵着B框。！！每条线要有2个connection！！
 
     ``` xml
     <connection name=“未知数1">
 
-       <origin name=“未知数2”>!!从这!!
+       <origin name=“未知数2”> // !!从这!!
 
            <port name=“未知数3"/>
 
         </origin>
 
-        <target name=“未知数4”>!!连到这!!
+        <target name=“未知数4”> // !!连到这!!
 
     	 <port name=“未知数5"/>
 
