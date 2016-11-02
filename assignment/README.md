@@ -14,7 +14,7 @@
 
 
 
- ![Alt text](https://github.com/tiger-BeA/assignment/blob/master/img/1.jpg)
+ ![Alt text](./img/1.jpg)
 
 
 
@@ -26,7 +26,7 @@
 
 
 
- ![Alt text](https://github.com/tiger-BeA/assignment/blob/master/img/2.png)
+ ![Alt text](./img/2.png)
 
 
 
@@ -38,7 +38,7 @@
 
 
 
- ![Alt text](https://github.com/tiger-BeA/assignment/blob/master/img/3.png)
+ ![Alt text](./img/3.png)
 
 
 
@@ -50,7 +50,7 @@ dot截图如下：<br/>
 
 
 
-![Alt text](https://github.com/tiger-BeA/assignment/blob/master/img/ex2.png)
+![Alt text](./img/ex2.png)
 
 
 
@@ -66,7 +66,7 @@ dot截图如下：<br/>
 
 
 
-![Alt text](https://github.com/tiger-BeA/assignment/blob/master/img/5.jpg)
+![Alt text](./img/5.jpg)
 
 
 
@@ -78,7 +78,7 @@ dot截图如下：<br/>
 
 
 
-![Alt text](https://github.com/tiger-BeA/assignment/blob/master/img/7.png)
+![Alt text](./img/7.png)
 
 
 
@@ -90,7 +90,7 @@ dot截图如下：<br/>
 
 
 
-![Alt text](https://github.com/tiger-BeA/assignment/blob/master/img/6.png)
+![Alt text](./img/6.png)
 
 
 
@@ -106,7 +106,7 @@ dot截图如下：<br/>
 
 
 
-![Alt text](https://github.com/tiger-BeA/assignment/blob/master/img/ex1.png)
+![Alt text](./img/ex1.png)
 
 
 
