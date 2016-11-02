@@ -8,7 +8,7 @@
 
 [https://help.ubuntu.com/community/Repositories/Ubuntu](https://help.ubuntu.com/community/Repositories/Ubuntu)
 
-配置成如下图所示即可，一般情况下，这些配置都是默认的。 ![ros_1](img\ros_1.png)
+配置成如下图所示即可，一般情况下，这些配置都是默认的。 ![ros_1](.\img\ros_1.png)
 
 ### 添加软件源到sources.list
 
