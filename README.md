@@ -62,7 +62,7 @@ $ sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
    ```bash
    $ ../configure CXX=g++ --disable-async-updates
    ```
-   下图为运行configure之后的截图
+   下图为运行configure之后的截图<br/>
    ![这里写图片描述](./img/dol_1.jpg)
 5. 编译
 
